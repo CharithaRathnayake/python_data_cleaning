@@ -106,15 +106,15 @@ Dashboard features:
 
 Below are example screenshots from the dashboard. Replace these files in `images/` with your own screenshots if you want different images to appear in this README.
 
-### Dashboard overview
+### Daily Avg Close
 
 ![Daily Avg Close](images/screenshot1.png)
 
-### Daily Avg Close (example)
+### Daily Return
 
 ![Daily Return](images/screenshot2.png)
 
-### Volume by Sector (example)
+### Volume by Sector
 
 ![Volume by Sector](images/screenshot3.png)
 
