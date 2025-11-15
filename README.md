@@ -100,3 +100,23 @@ Dashboard features:
 - `api/aggregates.py` — aggregation and output writers
 - `app.py` — Streamlit app that reads the parquet artifacts and renders charts
 
+
+
+## 🖼️ Screenshots (Streamlit dashboard)
+
+Below are example screenshots from the dashboard. Replace these files in `images/` with your own screenshots if you want different images to appear in this README.
+
+### Dashboard overview
+
+![Daily Avg Close](images/screenshot1.png)
+
+### Daily Avg Close (example)
+
+![Daily Return](images/screenshot2.png)
+
+### Volume by Sector (example)
+
+![Volume by Sector](images/screenshot3.png)
+
+
+
